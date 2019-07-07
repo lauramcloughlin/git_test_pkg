@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="git_test_pkg",
+    name="git_test_pkg_lauramcloughlin",
     version="0.0.1",
     author="Laura McLoughlin",
     author_email="b00092153@student.itb.ie",
