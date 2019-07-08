@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: git-test-pkg-lauramcloughlin
+Version: 0.0.1
+Summary: A text misclassification analysis package
+Home-page: https://github.com/lauramcloughlin/git_test_pkg
+Author: Laura McLoughlin
+Author-email: b00092153@student.itb.ie
+License: UNKNOWN
+Description: # git_test_pkg
+        
+        Pip install 
+        pip install -e git+git://github.com/lauramcloughlin/git_test_pkg.git#egg=git_test_pkg
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

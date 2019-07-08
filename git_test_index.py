@@ -32,3 +32,4 @@ def main():
     path = input_data_path()
     data = read_data(path)
     data = set_label(data)
+    print(data)
