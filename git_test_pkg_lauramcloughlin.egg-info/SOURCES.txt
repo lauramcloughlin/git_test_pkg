@@ -1,6 +1,0 @@
-README.md
-setup.py
-git_test_pkg_lauramcloughlin.egg-info/PKG-INFO
-git_test_pkg_lauramcloughlin.egg-info/SOURCES.txt
-git_test_pkg_lauramcloughlin.egg-info/dependency_links.txt
-git_test_pkg_lauramcloughlin.egg-info/top_level.txt
