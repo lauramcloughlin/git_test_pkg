@@ -8,8 +8,8 @@ setup(
   author_email = 'b00092153@student.itb.ie',
   url = 'https://github.com/lauramcloughlin/py_git_test',
   download_url = 'https://github.com/lauramcloughlin/py_git_test/archive/1.4.12.tar.gz',
-  keywords = ['py_git_test', 'misclassification', 'classification', 'text'],
-  packages = ['py_git_test'],
+  keywords = ['git_test_pkg', 'misclassification', 'classification', 'text'],
+  packages = ['git_test_pkg'],
   classifiers = [
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
